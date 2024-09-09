@@ -1,0 +1,1 @@
+5) Para cada interruptor ligado verifico duas salas, ao menos uma vai ser a lâmpada verdadeira, mesmo que entre em duas primeiras salas com a luz apagada, deduzirei que a ultima está acesa.Com a lógica que a primeira liga a segunda ou ou a terceira, faria que a segunda liga a primeira ou a segunda e o mesmo no terceiro interruptor. Criando então as permutações.
